@@ -1,0 +1,6 @@
+public class EscapeCharacter{
+	public static void main(String[] args){
+		System.out.print("When you need to use the escape characters");
+	}
+
+}	
